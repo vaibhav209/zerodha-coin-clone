@@ -1,0 +1,9 @@
+.mainHeading {
+  font-size: 32px;
+  line-height: 48px;
+  font-weight: 600;
+}
+
+.btnSignUp:hover {
+  background-color: #222 !important;
+}
